@@ -1,1 +1,1 @@
-web: node ./team1.js
+web: node ./first.js
